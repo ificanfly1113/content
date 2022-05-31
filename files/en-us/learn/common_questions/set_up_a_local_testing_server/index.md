@@ -94,7 +94,7 @@ To do this:
     ```bash
     # If Python version returned above is 3.X
     # On Windows, try "python -m http.server" or "py -3 -m http.server"
-    python3 -m http.server
+    python -m http.server
     # If Python version returned above is 2.X
     python -m SimpleHTTPServer
     ```
